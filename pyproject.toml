@@ -1,0 +1,4 @@
+[tool.ruff]
+lint.extend-select = ["C4", "SIM", "I", "D"]
+show-fixes = true
+line-length = 100
